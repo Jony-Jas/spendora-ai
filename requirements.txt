@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain_groq
+langchain_community
+langchain-nvidia-ai-endpoints
+langchain-chroma
+langgraph
+pydantic
+psycopg2
+uuid
